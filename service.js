@@ -10,8 +10,8 @@
     For more information, checkout the Getting Started: https://docs.skapi.com/introduction/getting-started.html
 */
 
-const SERVICE_ID = "";
-const OWNER_ID = "";
+const SERVICE_ID = "ap513WcRIXcb3leaQZ9V";
+const OWNER_ID = "335a325b-ccce-4cd2-83cc-f76cb1fb2569";
 
 /*
     Below, the options object is passed to the Skapi constructor.
